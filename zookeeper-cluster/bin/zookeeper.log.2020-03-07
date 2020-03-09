@@ -1,0 +1,30 @@
+[2020-03-07 10:27:39]INFO  org.apache.zookeeper.client.FourLetterWordMain(line:65) -connecting to localhost 2181
+[2020-03-07 10:27:39]INFO  org.apache.zookeeper.server.NIOServerCnxnFactory(line:222) -Accepted socket connection from /127.0.0.1:33808
+[2020-03-07 10:27:39]INFO  org.apache.zookeeper.server.NIOServerCnxn(line:908) -Processing srvr command from /127.0.0.1:33808
+[2020-03-07 10:27:39]INFO  org.apache.zookeeper.server.NIOServerCnxn(line:1056) -Closed socket connection for client /127.0.0.1:33808 (no session established for client)
+[2020-03-07 11:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 11:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 12:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 12:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 13:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 13:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 14:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 14:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 15:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 15:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 16:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 16:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 17:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 17:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 18:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 18:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 19:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 19:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 20:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 20:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 21:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 21:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 22:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 22:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
+[2020-03-07 23:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:138) -Purge task started.
+[2020-03-07 23:14:31]INFO  org.apache.zookeeper.server.DatadirCleanupManager(line:144) -Purge task completed.
